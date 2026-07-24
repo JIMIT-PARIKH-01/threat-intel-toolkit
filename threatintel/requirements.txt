@@ -1,0 +1,3 @@
+# No third-party packages required. Standard library only (urllib, json, base64, re).
+# Requires Python 3.8+.
+# The VirusTotal module needs a free API key in the VT_API_KEY environment variable.
