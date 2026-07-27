@@ -13,6 +13,8 @@ Defensive threat-intelligence tools — **dependency-free**, GUI + CLI.
 
 Standard library only (`urllib`, `json`, `base64`, `re`). Python 3.8+.
 
+![demo](docs/demo.png)
+
 ## VirusTotal key
 ```powershell
 setx VT_API_KEY "your_free_key_from_virustotal.com"
